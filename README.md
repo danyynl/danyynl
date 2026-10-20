@@ -18,6 +18,21 @@ Here are some ideas to get you started:
 
 Welcome to my profile, i'm undergraduate Informatics student at UPN Veteran Jakarta
 
+<p data-importer="text" align="left">✨ **Creating bugs since** 2026
+
+📚 **I'm currently learning**
+- Backend Development & Database Architecture (MySQL/MariaDB)
+- C & Python Programming
+- Computer Vision using OpenCV & MediaPipe
+
+🎯 **Goals**
+- Master backend engineering & system design
+- Integrate AI/CV features into real-world applications
+- Build impactful software projects
+
+🎲 **Fun fact**
+I can spend hours discussing Leopard Gecko morph genetics or analyzing movie cinematography.</p>
+
 ## Things i code with
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,7 +57,7 @@ Welcome to my profile, i'm undergraduate Informatics student at UPN Veteran Jaka
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/jcktherppr)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nurlatief.611@.com)
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
 
 ###
 
