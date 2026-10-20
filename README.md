@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Welcome to my profile, i'm undergraduate Informatics student at UPN Veteran Jakarta
 
-<p data-importer="text" align="left">✨ **Creating bugs since** 2026
+<p data-importer="text" align="left">✨ Creating bugs since 2026
 
 📚 **I'm currently learning**
 - Backend Development & Database Architecture (MySQL/MariaDB)
