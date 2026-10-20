@@ -1,4 +1,4 @@
-## Hi Im Dany Nur Latief 👋
+## Hi I'm Dany Nur Latief 👋
 
 <!--
 **danyynl/danyynl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width="2574" height="644" alt="Banner profile Dany" src="https://github.com/user-attachments/assets/596e0a2b-7a6f-47d5-867a-af4d119943a8" />
+
+## Skils
