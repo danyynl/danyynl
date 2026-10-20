@@ -37,7 +37,7 @@ Welcome to my profile, i'm undergraduate Informatics student at UPN Veteran Jaka
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
 ## Lets conect with me
-![https://www.instagram.com/anyy_dd/](https://skillicons.dev/icons?i=instagram)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/anyy_dd/)
 
 
 
