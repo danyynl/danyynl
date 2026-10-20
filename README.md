@@ -42,12 +42,23 @@ Welcome to my profile, i'm undergraduate Informatics student at UPN Veteran Jaka
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/jcktherppr)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nurlatief.611@.com)
 
+<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=danyynl.danyynl&right_color=gold"  />
+</div>
+
+###
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danyynl/danyynl/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danyynl/danyynl/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/danyynl/danyynl/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+###
 
 
 
