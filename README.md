@@ -62,4 +62,3 @@ Welcome to my profile, i'm undergraduate Informatics student at UPN Veteran Jaka
 
 
 
-
