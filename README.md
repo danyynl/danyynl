@@ -38,6 +38,10 @@ Welcome to my profile, i'm undergraduate Informatics student at UPN Veteran Jaka
 
 ## Lets conect with me
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/anyy_dd/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dany-nur-latief-8446561b6/?isSelfProfile=true)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/jcktherppr)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:nurlatief.611@.com)
+
 
 
 
